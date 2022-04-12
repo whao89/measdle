@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/measdle/static/css/main.d15eaca7.css",
-    "main.js": "/measdle/static/js/main.34943693.js",
-    "static/js/787.e562568f.chunk.js": "/measdle/static/js/787.e562568f.chunk.js",
+    "main.css": "/measdle/static/css/main.0c37536e.css",
+    "main.js": "/measdle/static/js/main.149fcbc6.js",
+    "static/js/787.d214df93.chunk.js": "/measdle/static/js/787.d214df93.chunk.js",
     "service-worker.js": "/measdle/service-worker.js",
     "index.html": "/measdle/index.html",
-    "main.d15eaca7.css.map": "/measdle/static/css/main.d15eaca7.css.map",
-    "main.34943693.js.map": "/measdle/static/js/main.34943693.js.map",
-    "787.e562568f.chunk.js.map": "/measdle/static/js/787.e562568f.chunk.js.map"
+    "main.0c37536e.css.map": "/measdle/static/css/main.0c37536e.css.map",
+    "main.149fcbc6.js.map": "/measdle/static/js/main.149fcbc6.js.map",
+    "787.d214df93.chunk.js.map": "/measdle/static/js/787.d214df93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d15eaca7.css",
-    "static/js/main.34943693.js"
+    "static/css/main.0c37536e.css",
+    "static/js/main.149fcbc6.js"
   ]
 }
