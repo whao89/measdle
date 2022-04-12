@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/measdle/static/css/main.cd122d4f.css",
+    "main.js": "/measdle/static/js/main.deef8dac.js",
+    "static/js/787.e562568f.chunk.js": "/measdle/static/js/787.e562568f.chunk.js",
+    "service-worker.js": "/measdle/service-worker.js",
+    "index.html": "/measdle/index.html",
+    "main.cd122d4f.css.map": "/measdle/static/css/main.cd122d4f.css.map",
+    "main.deef8dac.js.map": "/measdle/static/js/main.deef8dac.js.map",
+    "787.e562568f.chunk.js.map": "/measdle/static/js/787.e562568f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd122d4f.css",
+    "static/js/main.deef8dac.js"
+  ]
+}
